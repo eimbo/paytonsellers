@@ -1,0 +1,43 @@
+#acct-main{
+	width:1160px;
+	margin:20px;
+}
+
+
+#profilenav{ 
+	width:200px;
+	height:500px; 
+	float:left;
+}
+#profileinf{
+	width:375px;
+	height:500px;
+	padding-left:10px;
+	font-size:14pt;
+	float:left;
+}
+#oinf{
+	width:450px; 
+	float:right;
+	border:.5px solid #FFFFA0;
+	border-radius:3px;
+}
+#oinftitle{
+	color:black;
+	background:#FFFFA0;
+	font-size:16pt;
+	font-weight:bold;
+	border-radius:2px;
+	padding: 5px 0px 5px 30px;
+	margin-bottom:20px;
+}
+#oinf #tit{
+	font-weight:bold;
+	//color:#FFFFC0;
+}
+a#oinf:hover {
+	background:#323232;
+	color:#FFFFC0;
+	box-shadow: 0px 0px 9px .5px #FFFFC0;
+	
+}

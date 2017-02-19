@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.local
+doc/
+.settings/
+
+# Maven
+log/
+target/
+src/test/
+
+
+
