@@ -1,7 +1,7 @@
 # PaytonSellersBooks
 Java bookstore web application. A full e-commerce website with Spring.
 
-##Features
+## Features
 * **Membership**: complete login and registration feature integrated with the server and data store
 * **Customer Profile**: customers edit their profile and update the shipping address we have on file
 * **Shopping Cart**: customers add products to their shopping cart and step through the checkout flow
@@ -13,7 +13,7 @@ is available to the user
 * **Navigation**: each book is associated with a popular category of books and a specific subcategory for seemless navigation
 * **Webserivces**: the complete inventory of books is available in xml
 
-###Source File Structure
+### Source File Structure
 ```
 │   ├───src
 │   │   ├───main
