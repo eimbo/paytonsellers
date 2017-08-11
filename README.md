@@ -13,55 +13,6 @@ is available to the user
 * **Navigation**: each book is associated with a popular category of books and a specific subcategory for seemless navigation
 * **Webserivces**: the complete inventory of books is available in xml
 
-### Source File Structure
-```
-│   ├───src
-│   │   ├───main
-│   │   │   ├───java
-│   │   │   │   └───com
-│   │   │   │       └───paytonsellersbooks
-│   │   │   │           ├───action
-│   │   │   │           │       AdminAction.java
-│   │   │   │           │       CustomerAction.java
-│   │   │   │           │       ViewAction.java
-│   │   │   │           │       
-│   │   │   │           ├───controller
-│   │   │   │           │       AdminController.java
-│   │   │   │           │       CustomerController.java
-│   │   │   │           │       NavController.java
-│   │   │   │           │       ViewController.java
-│   │   │   │           │       
-│   │   │   │           ├───dao
-│   │   │   │           │       BaseDAO.java
-│   │   │   │           │       BookDAO.java
-│   │   │   │           │       BookDAOImpl.java
-│   │   │   │           │       CategoryDAO.java
-│   │   │   │           │       CategoryDAOImpl.java
-│   │   │   │           │       CustomerDAO.java
-│   │   │   │           │       CustomerDAOImpl.java
-│   │   │   │           │       DAO.java
-│   │   │   │           │       DAOException.java
-│   │   │   │           │       DAOFactory.java
-│   │   │   │           │       InvoiceDAO.java
-│   │   │   │           │       InvoiceDAOImpl.java
-│   │   │   │           │       InvoiceDetailDAO.java
-│   │   │   │           │       InvoiceDetailDAOImpl.java
-│   │   │   │           │       
-│   │   │   │           ├───model
-│   │   │   │           │       Address.java
-│   │   │   │           │       Book.java
-│   │   │   │           │       Customer.java
-│   │   │   │           │       Invoice.java
-│   │   │   │           │       InvoiceDetail.java
-│   │   │   │           │       
-│   │   │   │           ├───services
-│   │   │   │           │       BookResource.java
-│   │   │   │           │       HelloResource.java
-│   │   │   │           │       
-│   │   │   │           └───utility
-│   │   │   │                   CookieHelper.java
-
-```
 
 # Screens
 ![Alt text](/screens/1.jpg)
