@@ -1,7 +1,6 @@
 # Eclipse
 .classpath
 .project
-.local
 doc/
 .settings/
 
@@ -10,5 +9,9 @@ log/
 target/
 src/test/
 
-
-
+# Local
+.local
+.info.txt
+paytonsellers.sql
+datadictionary.pdf
+.tern-project
