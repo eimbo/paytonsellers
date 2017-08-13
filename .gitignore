@@ -1,8 +1,5 @@
 # Eclipse
-.classpath
-.project
 doc/
-.settings/
 
 # Maven
 log/
@@ -14,4 +11,4 @@ src/test/
 info.txt
 paytonsellers.sql
 datadictionary.pdf
-.tern-project
+
