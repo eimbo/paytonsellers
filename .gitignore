@@ -11,7 +11,7 @@ src/test/
 
 # Local
 .local
-.info.txt
+info.txt
 paytonsellers.sql
 datadictionary.pdf
 .tern-project
