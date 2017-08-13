@@ -1,3 +1,6 @@
 8/13/17 The master branch builds and the .war runs if copied to apache webapps directory. Not sure
         how to add the structure to eclipse apache server. Don't know if using-jdbc or using-hibernate-jpa
         will run on apache server. I'm copying the master branch to an archive folder somewhere.
+        
+8/13/17 Set the server to use wtpwebapps2, and built the Deployment Assembly same as extracting the .war file. 
+        It deploys with no errors now. .classpath or .project stores the setting and I need to save them.
