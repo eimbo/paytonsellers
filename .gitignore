@@ -1,5 +1,6 @@
 # Eclipse
 doc/
+.tern-project
 
 # Maven
 log/
@@ -11,4 +12,4 @@ src/test/
 info.txt
 paytonsellers.sql
 datadictionary.pdf
-
+*.xlsx
