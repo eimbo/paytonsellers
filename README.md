@@ -1,5 +1,5 @@
 # PaytonSellersBooks
-Java Bookstore web application. A full E-Commerce website.
+__Java Bookstore web application. A full E-Commerce website.__
 * Spring MVC
 * Jersey Rest
 * Tomcat Realm authentication
