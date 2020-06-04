@@ -1,9 +1,11 @@
 # PaytonSellersBooks
 Java Bookstore web application. A full E-Commerce website.
-* ** Spring MVC
-* ** Tomcat Realm authentication
-* ** JSP frontend
-* ** JDBC data connection
+* Spring MVC
+* Jersey Rest
+* Tomcat Realm authentication
+* JSP frontend
+* JDBC data connection
+* Maven dependency mgmt
 
 ## Features
 * **Membership**: complete login and registration feature integrated with the server and data store
