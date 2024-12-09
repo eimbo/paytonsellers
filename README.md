@@ -20,13 +20,5 @@ are available
 * **Webserivces**: the complete inventory of books is available as a webservice
 
 
-# Screens
-![Alt text](/screens/1.jpg)
-![Alt text](/screens/2.jpg)
-![Alt text](/screens/6.jpg)
-![Alt text](/screens/7.jpg)
-![Alt text](/screens/8.jpg)
-![Alt text](/screens/9.jpg)
-![Alt text](/screens/10.jpg)
 
 
